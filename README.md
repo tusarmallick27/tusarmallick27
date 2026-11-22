@@ -1,4 +1,8 @@
-<h1 align="center">𝑻𝑼𝑺𝑨𝑹 𝑴𝑨𝑳𝑳𝑰𝑪𝑲</h1>
+<div align="center">
+  <h1 style="background: linear-gradient(135deg, #0F172A, #1E3A8A, #6D28D9); color: #FFFFFF; padding: 28px; border-radius: 16px; font-family: Georgia, serif; letter-spacing: 4px;">
+    𝑻𝒖𝒔𝒂𝒓 𝑴𝒂𝒍𝒍𝒊𝒄𝒌
+  </h1>
+</div>
 
 <div align="center">
 
