@@ -1,4 +1,4 @@
-TUSAR MALLICK
+<h1 align="center">𝑻𝑼𝑺𝑨𝑹 𝑴𝑨𝑳𝑳𝑰𝑪𝑲</h1>
 
 <div align="center">
 
