@@ -1,7 +1,12 @@
-👨‍💻 TUSAR MALLICK
+👨‍💻 About Me
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;B.Tech+CSE+AIML+Student;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality;Think.+Code.+Innovate." alt="Typing SVG" />BUILD • LEARN • INNOVATE
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;First-Year+B.Tech+CSE+AIML+Student;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality;Think.+Code.+Innovate." alt="Typing SVG" />
+
+BUILD • LEARN • INNOVATE
+
+</div>
 👨‍💻 About Me
 
 🎓 First-year B.Tech student specializing in Computer Science & Engineering (AIML).
