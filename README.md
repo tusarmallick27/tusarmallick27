@@ -1,5 +1,5 @@
 <!-- PREMIUM GITHUB PROFILE README --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:7C3AED&height=220&section=header&text=TUSAR%20MALLICK&fontSize=50&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/><a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(CORE)+Student;Aspiring+Software+Developer;Tech+%26+AI+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=B.Tech+CSE+(AI ML)+Student;Aspiring+Software+Developer;Tech+%26+AI+Enthusiast;Building+Ideas+Into+Reality" alt="Typing SVG"/>
 </a><p>
 <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Interest-Artificial%20Intelligence-7C3AED?style=for-the-badge"/>
@@ -9,7 +9,7 @@
 👨‍💻 ABOUT ME
 
 Name:『 TUSAR MALLICK 』
-education: B.Tech CSE (CORE)
+education: B.Tech CSE (AIML)
 year: First Year
 role: Aspiring Software Developer
 interests:
