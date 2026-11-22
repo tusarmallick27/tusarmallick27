@@ -2,13 +2,6 @@
 
 <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;B.Tech+CSE+AIML+Student;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality;Think.+Code.+Innovate." alt="Typing SVG" />BUILD • LEARN • INNOVATE
 
-""Instagram" (https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/mystnx.tusar_/)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/tusar-mallick-07a149430/)
-""Gmail" (https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:mallicktusar2007@gmail.com)
-""GitHub" (https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/tusarmallick27)
-
-</div>---
-
 👨‍💻 About Me
 
 🎓 First-year B.Tech student specializing in Computer Science & Engineering (AIML).
