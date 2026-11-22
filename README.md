@@ -9,7 +9,6 @@
 👨‍💻 ABOUT ME
 
 Name:『 TUSAR MALLICK 』
-02 · Premium Developer
 education: B.Tech CSE (CORE)
 year: First Year
 role: Aspiring Software Developer
