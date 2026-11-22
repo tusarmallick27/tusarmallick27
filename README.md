@@ -2,7 +2,7 @@
   <h1 style="background: linear-gradient(135deg, #0F172A, #1E3A8A, #6D28D9); color: #FFFFFF; padding: 28px; border-radius: 16px; font-family: Georgia, serif; letter-spacing: 4px;">
     𝑻𝒖𝒔𝒂𝒓 𝑴𝒂𝒍𝒍𝒊𝒄𝒌
   </h1>
-</div>
+</div>img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" /></div>
 
 <div align="center">
 
