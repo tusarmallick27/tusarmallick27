@@ -1,145 +1,110 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=TUSAR%20MALLICK&fontSize=55&color=0:020617,50:0F172A,100:0891B2&stroke=06B6D4&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=70&descSize=18" width="100%"/><br/><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AIML)+Student;Aspiring+Software+Developer;AI+%26+Technology+Enthusiast;Turning+Ideas+Into+Code;Always+Learning.+Always+Building." /><br/>""GitHub" (https://img.shields.io/badge/GitHub-Profile-0D1117?style=flat-square&logo=github)" (https://github.com/tusarmallick27)
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)" (https://www.linkedin.com/in/tusar-mallick-07a149430/)
-""Instagram" (https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram)" (https://www.instagram.com/mystnx.tusar_/)
-""Gmail" (https://img.shields.io/badge/Gmail-Contact-EA4335?style=flat-square&logo=gmail)" (mailto:mallicktusar2007@gmail.com)
+👨‍💻 Hey, I'm Tusar Mallick!
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;First-Year+B.Tech+CSE+%7C+AIML;AI+%26+Machine+Learning+Enthusiast;Building+Ideas+Into+Reality;Think.+Code.+Innovate." alt="Typing SVG" />🚀 BUILD • LEARN • INNOVATE
+
+""Instagram" (https://img.shields.io/badge/Instagram-mystnx.tusar__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://www.instagram.com/mystnx.tusar_/)
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Tusar%20Mallick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/tusar-mallick-07a149430/)
+""Gmail" (https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:mallicktusar2007@gmail.com)
+""GitHub" (https://img.shields.io/badge/GitHub-tusarmallick27-181717?style=for-the-badge&logo=github)" (https://github.com/tusarmallick27)
 
 </div>---
 
-"01 / WHO AM I?"
+👨‍💻 About Me
 
-const developer = {
-    name: "Tusar Mallick",
-    education: "B.Tech - CSE (AIML)",
-    role: "Aspiring Software Developer",
-    interests: [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Web Development",
-        "Cloud Computing",
-        "Problem Solving"
-    ],
-    currentlyLearning: [
-        "C",
-        "Java",
-        "Python",
-        "JavaScript",
-        "AI & Machine Learning",
-        "AWS"
-    ],
-    mindset: "Learn. Build. Improve. Repeat."
-};
+🎓 First-year B.Tech student specializing in Computer Science & Engineering (AIML).
 
-Hey there! I'm a first-year Computer Science and Engineering (AIML) student passionate about technology, programming, and building meaningful digital experiences.
+💻 Interested in software development, artificial intelligence, and modern web technologies.
 
-I love experimenting with new tools, developing creative projects, and transforming ideas into working applications.
+🌱 Currently learning and improving my programming and development skills.
 
-My philosophy: Don't just learn technology. Build something with it.
+🚀 Building practical projects and exploring AI-powered development workflows.
+
+🏆 Participated in Smart India Hackathon (SIH).
+
+🧠 Interested in the intersection of business, technology, and product development.
+
+🤝 Always open to learning, collaboration, and new opportunities.
 
 ---
 
-"02 / TECH ARSENAL"
+🌐 Connect With Me
 
-Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,java,python,js&theme=dark" />
-</p>Frontend & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
-</p>Database & Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws&theme=dark" />
-</p>Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
-</p>AI & Innovation
-
-- Artificial Intelligence & Machine Learning
-- Google AI Studio
-- AI-assisted Development
-- Prompt Engineering
-- Exploring intelligent applications
-
----
-
-"03 / SELECTED PROJECTS"
-
-<div align="center">🌱 EcoTrack
-
-Building awareness. Encouraging sustainability.
-
-An environmental-focused web project designed to promote sustainable living and environmental awareness.
-
-""Live Demo" (https://img.shields.io/badge/EXPLORE-LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)" (https://eco-track-bjj9j2u4p-tusar-mallick.vercel.app/)
-
----
-
-🤝 TechBuddy
-
-Connecting generations through technology.
-
-A platform concept connecting seniors with tech-savvy students for accessible digital assistance.
-
-""Live Demo" (https://img.shields.io/badge/EXPLORE-LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)" (https://techbuddy-web-inky.vercel.app/)
-
----
-
-🛡️ CommunityGuard
-
-Technology for safer, stronger communities.
-
-A community-focused website designed around awareness, safety, and community engagement.
-
-""Live Demo" (https://img.shields.io/badge/EXPLORE-LIVE_DEMO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)" (https://communityguard-one.vercel.app/)
+<div align="center">Platform| Connect
+📸 Instagram| "@mystnx.tusar_" (https://www.instagram.com/mystnx.tusar_/)
+💼 LinkedIn| "Tusar Mallick" (https://www.linkedin.com/in/tusar-mallick-07a149430/)
+📧 Gmail| "mallicktusar2007@gmail.com" (mailto:mallicktusar2007@gmail.com)
+🐙 GitHub| "@tusarmallick27" (https://github.com/tusarmallick27)
 
 </div>---
 
-"04 / GITHUB ANALYTICS"
+🛠️ Tech Stack & Tools
 
-<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=tusarmallick27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusarmallick27&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE" /><br/><br/>
+💻 Programming Languages
 
-<img width="75%" src="https://streak-stats.demolab.com?user=tusarmallick27&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" /></div>---
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>🌐 Development & Design
 
-"05 / ACHIEVEMENTS & ACTIVITIES"
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma" />
+</p>⚙️ Tools & Platforms
 
-- 🏆 Participated in Smart India Hackathon (SIH).
-- 💻 Developing and deploying personal web projects.
-- ☁️ Exploring AWS and cloud computing.
-- 🤖 Learning about Artificial Intelligence and Machine Learning.
-- 🚀 Continuously improving programming and development skills.
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,aws,firebase" />
+</p>🤖 AI Tools
+
+<p>
+<img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Powered%20Development-8A2BE2?style=for-the-badge" />
+</p>---
+
+🚀 Featured Projects
+
+Project| Description| Status
+🎙️ Mivo| An AI-powered voice notes application that converts spoken thoughts into text and helps organize ideas, business notes, and to-do lists.| 🟡 In Development
+🪔 Diwali Greeting Website| An interactive festive experience featuring personalized greeting cards, interactive diyas, a digital rangoli studio, festive music, fireworks, and confetti.| 🟢 Deployed
+☕ CafeOS| A digital cafe management experience designed to simplify cafe operations and provide customers with a QR-based menu experience.| 🔵 Built
 
 ---
 
-"06 / CURRENT MISSION"
+📊 GitHub Statistics
 
-[✓] Start the programming journey
-[✓] Explore web development
-[✓] Build and deploy projects
-[✓] Participate in hackathon activities
-[ ] Master Java and Python
-[ ] Strengthen Data Structures & Algorithms
-[ ] Explore AI and Machine Learning
-[ ] Build AI-powered applications
-[ ] Develop scalable cloud-based solutions
+<div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=tusarmallick27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusarmallick27&layout=compact&theme=tokyonight&hide_border=true" /></div>---
+
+🔥 Contribution Streak
+
+<div align="center"><img src="https://streak-stats.demolab.com?user=tusarmallick27&theme=tokyonight&hide_border=true" /></div>---
+
+🏆 Achievements & Experience
+
+- Participated in Smart India Hackathon (SIH) as a first-year engineering student.
+- Building practical web applications and experimenting with AI-powered features.
+- Exploring modern development tools, backend services, and deployment workflows.
+- Continuously learning through hands-on development and experimentation.
 
 ---
 
-"07 / LET'S CONNECT"
+🎯 Current Goals
 
-<div align="center">Good developers build projects. Great developers build together.
+- Strengthen my programming fundamentals.
+- Improve my full-stack development skills.
+- Learn more about Artificial Intelligence and Machine Learning.
+- Build useful, real-world projects.
+- Contribute to open-source projects and collaborate with developers.
 
-""LinkedIn" (https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin)" (https://www.linkedin.com/in/tusar-mallick-07a149430/)
-""Instagram" (https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram)" (https://www.instagram.com/mystnx.tusar_/)
-""GitHub" (https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github)" (https://github.com/tusarmallick27)
-""Email" (https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail)" (mailto:mallicktusar2007@gmail.com)
+---
+
+💡 Developer Quote
+
+<div align="center">"Great things are built one line of code at a time."
+
+Think. Code. Debug. Learn. Repeat.
 
 </div>---
 
-<div align="center">"while(alive) { keepBuilding(); }"
+<div align="center">👀 Thanks for visiting my developer space!
 
-Thanks for visiting my GitHub profile!
+⭐ Keep Exploring | Keep Building | Keep Innovating ⭐
 
-<img src="https://komarev.com/ghpvc/?username=tusarmallick27&label=PROFILE+VISITORS&color=0891B2&style=for-the-badge" /><img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:0891B2&height=120&section=footer" width="100%"/></div> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" /></div>
